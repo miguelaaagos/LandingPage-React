@@ -29,24 +29,28 @@ const Home = () => {
 			<div className="row justify-content-center">
 				<Card
 					title="Card title"
+					imageUrl= "https://images.all-free-download.com/images/graphicwebp/cat_cat_face_cats_eyes_240527.webp"
 					description="Lorem Ipsum is simply dummy text of the printing and typesetting industry"
 					buttonLabel="Find Out More!"
 				/>
 
 				<Card
 					title="Card title"
+					imageUrl= "https://images.all-free-download.com/images/graphicwebp/cat_cat_face_cats_eyes_240527.webp"
 					description="Lorem Ipsum is simply dummy text of the printing and typesetting industry"
 					buttonLabel="Find Out More!"
 				/>
 
 				<Card
 					title="Card title"
+					imageUrl= "https://images.all-free-download.com/images/graphicwebp/cat_cat_face_cats_eyes_240527.webp"
 					description="Lorem Ipsum is simply dummy text of the printing and typesetting industry"
 					buttonLabel="Find Out More!"
 				/>
 
 				<Card
 					title="Card title"
+					imageUrl= "https://images.all-free-download.com/images/graphicwebp/cat_cat_face_cats_eyes_240527.webp"
 					description="Lorem Ipsum is simply dummy text of the printing and typesetting industry"
 					buttonLabel="Find Out More!"
 				/>
