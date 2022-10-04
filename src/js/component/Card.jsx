@@ -4,7 +4,7 @@ import PropTypes from "prop-types";
 const Card = (props) => {
 	// 1) replace the hard-coded image, description, link, etc. With their property variable.
 	return (
-		<div className="card m-1 col-2">
+		<div className="card m-1 col-xl-2">
 			<img className="card-img-top" src={props.imageUrl} alt="Card image cap" />
 			<div className="card-body">
 				<h5 className="card-title">{props.title}</h5>

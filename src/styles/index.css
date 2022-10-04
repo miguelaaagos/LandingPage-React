@@ -1,4 +1,6 @@
-
+body {  
+    padding-bottom:0;   
+}
 /* 
 
     You can write your own styles here...
@@ -15,3 +17,11 @@
     height: 15vw;
     object-fit: cover;
 }
+
+body {
+    padding-bottom: 0px !important;
+    margin-bottom: -40px !important;
+  }
+  footer.well{
+    margin-bottom: -20px !important;
+  }
