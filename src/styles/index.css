@@ -1,5 +1,12 @@
-body {  
-    padding-bottom:0;   
+body {
+    padding-bottom: 0px !important;
+    margin-bottom: 0px !important;
+    height:100vh;
+    
+}
+
+section {
+    min-height: 100vh;
 }
 /* 
 
@@ -18,10 +25,11 @@ body {
     object-fit: cover;
 }
 
-body {
-    padding-bottom: 0px !important;
-    margin-bottom: -40px !important;
-  }
-  footer.well{
-    margin-bottom: -20px !important;
-  }
+.footer {
+    width: 100%;
+    padding: 0;
+}
+
+.jumbotron {
+    width: 100%;
+}
