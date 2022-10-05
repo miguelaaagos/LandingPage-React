@@ -59,12 +59,10 @@ const Home = () => {
 				</div>
 			</section>
 			<div className="row">
-				<footer>
 					<Footer
 						title="© 2022 Copyright: "
 						siteUrl="HamburguesasMC.com"
 					/>
-				</footer>
 			</div>
 		</div>
 	);
